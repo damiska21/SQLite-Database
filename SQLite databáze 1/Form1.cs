@@ -17,6 +17,7 @@ namespace SQLite_databáze_1
         DataTable dt;
         SQLiteDataAdapter adapter;
         DataSQLite tridaSQL;
+        BindingList<Car> carList = new BindingList<Car>();
         public Form1()
         {
             InitializeComponent();
@@ -33,9 +34,13 @@ namespace SQLite_databáze_1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            DataSQLite.Pripoj();
-            adapter = new SQLiteDataAdapter("SELECT * FROM cars orde by nazev", DataSQLite.Connection);
-            dt = new DataTable();
+            
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            carList = tridaSQL.GetValues();
+            dataGridView1.DataSource = carList;
         }
     }
 }

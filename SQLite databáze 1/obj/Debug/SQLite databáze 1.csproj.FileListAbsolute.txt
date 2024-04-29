@@ -18,3 +18,23 @@ C:\Users\rohacekd\source\repos\SQLite databáze 1\SQLite databáze 1\obj\Debug\S
 C:\Users\rohacekd\source\repos\SQLite databáze 1\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.CopyComplete
 C:\Users\rohacekd\source\repos\SQLite databáze 1\SQLite databáze 1\obj\Debug\SQLite databáze 1.exe
 C:\Users\rohacekd\source\repos\SQLite databáze 1\SQLite databáze 1\obj\Debug\SQLite databáze 1.pdb
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\SQLite databáze 1.exe.config
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\SQLite databáze 1.exe
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\SQLite databáze 1.pdb
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\EntityFramework.dll
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\System.Data.SQLite.dll
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\EntityFramework.xml
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\bin\Debug\System.Data.SQLite.xml
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.AssemblyReference.cache
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite_databáze_1.Form1.resources
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite_databáze_1.Properties.Resources.resources
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.GenerateResource.cache
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.CoreCompileInputs.cache
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.CopyComplete
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.exe
+C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.pdb
