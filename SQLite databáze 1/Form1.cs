@@ -14,6 +14,8 @@ namespace SQLite_databáze_1
 {
     public partial class Form1 : Form
     {
+        //aplikace knihovna
+        //zákazníci knihovny, knihy, autoři, vypůjčené knihy
         DataTable dt;
         SQLiteDataAdapter adapter;
         DataSQLite tridaSQL;
@@ -21,7 +23,7 @@ namespace SQLite_databáze_1
         public Form1()
         {
             InitializeComponent();
-            SQLiteDataAdapter adapter = new SQLiteDataAdapter();
+            adapter = new SQLiteDataAdapter();
             dt = new DataTable();
             tridaSQL = new DataSQLite();
         }
@@ -41,6 +43,12 @@ namespace SQLite_databáze_1
         {
             carList = tridaSQL.GetValues();
             dataGridView1.DataSource = carList;
+        }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            //idCar = Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString());
+            MessageBox.Show((Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString())).ToString());
         }
     }
 }

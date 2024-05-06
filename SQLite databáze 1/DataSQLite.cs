@@ -36,7 +36,6 @@ namespace SQLite_databáze_1
             {
                 Pripoj(); 
                 prikaz = new SQLiteCommand(Connection);
-
                 prikaz.CommandText = "DROP TABLE IF EXISTS cars"; 
                 prikaz.ExecuteNonQuery(); 
                 prikaz.CommandText = "CREATE TABLE cars(AutoID INTEGER PRIMARY KEY AUTOINCREMENT, nazev VARCHAR(15), cena INTEGER);";
