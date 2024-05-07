@@ -38,3 +38,22 @@ C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\
 C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.CopyComplete
 C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.exe
 C:\Users\rohacekd\Documents\GitHub\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.pdb
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\SQLite databáze 1.exe.config
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\SQLite databáze 1.exe
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\SQLite databáze 1.pdb
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\EntityFramework.dll
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\EntityFramework.SqlServer.dll
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\System.Data.SQLite.dll
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\EntityFramework.xml
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\EntityFramework.SqlServer.xml
+D:\programko\h\SQLite-Database\SQLite databáze 1\bin\Debug\System.Data.SQLite.xml
+D:\programko\h\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.AssemblyReference.cache
+D:\programko\h\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite_databáze_1.Form1.resources
+D:\programko\h\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite_databáze_1.Properties.Resources.resources
+D:\programko\h\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.GenerateResource.cache
+D:\programko\h\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.CoreCompileInputs.cache
+D:\programko\h\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.csproj.CopyComplete
+D:\programko\h\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.exe
+D:\programko\h\SQLite-Database\SQLite databáze 1\obj\Debug\SQLite databáze 1.pdb
